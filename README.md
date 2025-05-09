@@ -1,7 +1,7 @@
 <h1>Customizable Pong (Unity)</h1>
 
 <h2>Description</h2>
-Description here
+A customizable version of Pong built with Unity. Functionality includes: pausing, changing ball speed, changing ball amount, changing paddle size, and saving settings to disc. This game was intended as a learning exercise for Unity devolpment.
 
 <br/>
 
